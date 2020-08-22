@@ -1,5 +1,5 @@
 {"index":{"_id":"1"}}
-{ "title": "ElasticSearch Training Book", "ISBN": "9781782111424", "release_date": "2017/08/01", "content": "ElasticSearch is cool open source search engine" }
+{ "title": "ElasticSearch Training Book", "ISBN": "9781782111424", "release_date": "2017/08/01", "description": "ElasticSearch is cool open source search engine" }
 {"index":{"_id":"2"}}
 { "title" : "Kubernetes: Up and Running", "ISBN": "9781781042633", "release_date": "2019/03/03", "description" : "What separates the traditional enterprise from the likes of Amazon, Netflix, and Etsy? Those companies have refined the art of cloud native development to maintain their competitive edge and stay well ahead of the competition. This practical guide shows Java/JVM developers how to build better software, faster, using Spring Boot, Spring Cloud, and Cloud Foundry." }
 {"index":{"_id":"3"}}
